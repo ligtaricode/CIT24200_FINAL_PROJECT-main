@@ -41,3 +41,5 @@ The application is tested using unit testing to ensure that it functions correct
 
 The entire application is uploaded to GitHub and set to public, where it can be accessed by anyone. The URL of the GitHub repository is submitted as 
 
+## Reference
+Chat.openai.com. (n.d.). Retrieved April 23, 2023, from https://chat.openai.com/ 
